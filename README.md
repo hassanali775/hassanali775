@@ -1,18 +1,99 @@
-#  About Me:
-I’m currently working on Developing Sentinel_OS, a secure, lightweight operating system environment, and refining Wiretap's network monitoring modules.<br>I’m looking to collaborate on Open-source cybersecurity tools, low-level system architecture, and advanced network packet analysis projects.<br>I’m looking for help with Optimizing kernel-level performance for Sentinel_OS and implementing advanced eBPF tracing for Wiretap.<br>I’m currently learning Advanced Linux kernel development, secure boot protocols, and low-level memory management.<br>Ask me about Network security, custom OS development, C/Rust systems programming, and packet sniffing architecture.<br>Fun fact I break things just to learn exactly how to build them back stronger.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/slice&color=0d1117&height=180&section=header&text=Hassan%20Ali%20Imran&fontSize=45&fontColor=3ecf8e&fontAlignY=45" alt="Hassan Ali Imran profile header" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=550&lines=Developing+Sentinel_OS;Refining+Wiretap+modules;Low-level+systems+%26+eBPF" alt="Typing introduction" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__hassan__alii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-ali-imran-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hassan Ali Imran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanaliimran11@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/hassan-ali-imran-"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hassanaliimran11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/__hassan__alii"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hassanali775&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hassanali775&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hassanali775&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About My Work
+
+I am Hassan Ali Imran, a systems developer and security researcher building secure, lightweight operating system environments and high-performance network monitoring modules.
+
+I focus on projects where performance isn't an afterthought. My best work connects bare-metal execution with safe memory management, secure boot verification, kernel tracing, and robust network event captures.
+
+| Systems Architecture | Network Telemetry | Kernel-level Performance |
+| :--- | :--- | :--- |
+| Microkernel Design | Raw Packet Ingestion | eBPF Event Tracing |
+| Secure Boot Chains | Zero-copy Ring Buffers | Memory Barrier Isolation |
+
+| | |
+| :--- | :--- |
+| **Best at** | Custom OS design, Linux kernel performance tuning, packet sniffing architectures, and systems programming in C/Rust. |
+| **Main stack** | C, C++, Rust, Go, eBPF, QEMU, Linux, Python. |
+| **Engineering habits** | Manual memory safety, static analysis validation, zero-trust system models, kernel-space isolation, and rigorous integration testing. |
+| **Current direction** | Implementing advanced eBPF tracing modules for Wiretap and optimizing scheduler context-switching performance for Sentinel_OS. |
 
 ---
-[![](https://komarev.com/ghpvc/?username=hassanali775&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Builds
+
+### Sentinel_OS
+A secure, lightweight custom operating system environment engineered for minimal resource footprints.
+
+*Stack: C, Assembly, Custom Bootloaders, Rust, QEMU.*
+
+**Why it matters:** Most modern OS distributions carry significant legacy bloat. Sentinel_OS aims to strip out unnecessary abstraction layers, utilizing a minimal micro-kernel architecture with strictly isolated execution rings and secure-boot trust anchors.
+
+**Interesting parts**
+* Custom early-stage bootloader implementing secure boot protocol validation.
+* Lightweight virtual memory manager engineered to strictly isolate kernel execution space from user-space privilege escalations.
+* *In progress:* Optimizing multi-core CPU scheduling metrics to reduce task context-switching overhead.
+
+### Wiretap
+High-performance, zero-overhead network monitoring and packet analysis modules.
+
+*Stack: C++, Go, eBPF, Raw Sockets, libpcap.*
+
+**Why it matters:** Standard user-space packet sniffers induce heavy context-switching and copying overhead under heavy network loads. Wiretap shifts packet classification and telemetry directly into the kernel using eBPF, preserving processing throughput.
+
+**Interesting parts**
+* High-speed, zero-copy memory ring architectures optimized for raw frame ingestion.
+* Dynamic eBPF kernel maps to safely aggregate network statistics and metrics without leaving kernel space.
+* *In progress:* Integrating kernel-level filtering arrays to drop malicious traffic patterns at the driver layer.
+
+---
+
+## Skill Map
+Systems Developer & Security Engineer
+│
+├── Systems & Kernel Route ──────► Custom OS Design • Memory Managers • Bootloaders • Kernel Tuning
+│                                  (Demonstrated in: Sentinel_OS microkernel architecture)
+│
+├── Network Telemetry Route ────► Raw Sockets • Protocol Parsers • eBPF Event Maps • Packet Filters
+│                                  (Demonstrated in: Wiretap network monitoring engines)
+│
+└── Deployment & Security Route ─► Secure Boot Anchors • Static Analysis • QEMU Emulation • CI Automation
+
+**Strongest zone:** custom low-level architectures + strict memory safety + zero-overhead event capture
+
+---
+
+## GitHub Motion
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=hassanali775&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hassanali775&theme=dark&hide_border=false&include_all_commits=true&layout=compact" width="48%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hassanali775&theme=dark&hide_border=false" width="97%" alt="GitHub streak" />
+</p>
+
+---
+
+## Current Focus
+
+* Deepening expertise in hardware-enforced security boundaries (such as AMD SEV / Intel SGX).
+* Collaborating on open-source, low-level cybersecurity tools and kernel-space frameworks.
+* Breaking and debugging experimental kernel configurations to understand limits and build back stronger.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type/waving&color=0d1117&height=80&section=footer" alt="Footer wave" width="100%" />
+</p>
